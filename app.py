@@ -4,6 +4,9 @@ def addition(a,b):
 def division(a,b):
     return a//b
 
+def subtraction(a,b):
+    return a-b
+
 def main():
     print(division(4,2))
     # print(addition(3,4))
