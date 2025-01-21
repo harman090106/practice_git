@@ -4,8 +4,8 @@ def addition(a,b,c):
 def division(a,b):
     return a//b
 
-def subtraction(a,b,c):
-    return a-b-c
+def subtraction(a,b,d):
+    return a-b-d
 
 def main():
     print(division(4,2))
